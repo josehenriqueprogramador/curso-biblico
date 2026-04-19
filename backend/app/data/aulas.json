@@ -4,260 +4,553 @@
     "motivacao": "Deus inicia a história da redenção chamando um homem comum para formar um povo de promessa.",
     "conteudo": {
       "introducao": "A fé começa com um chamado de Deus e exige ruptura com a antiga vida.",
-      "objetivo": "Compreender que a fé começa com um chamado de Deus e exige ruptura.",
-      "orientacao": [
-        "Entender o chamado em Gênesis 12",
-        "Perceber que Deus chama por propósito",
-        "Aplicar fé obediente"
-      ],
-      "desenvolvimento": [
-        "Deus chama em meio à realidade",
-        "O chamado exige saída e confiança",
-        "A promessa aponta para Cristo"
-      ],
-      "conclusao": [
-        "A fé nasce do chamado",
-        "Obedecer exige deixar o conforto",
-        "A promessa se cumpre em Cristo"
-      ],
-      "encerramento": "Responder ao chamado com confiança e obediência."
+      "objetivo": "Compreender que a fé começa com um chamado de Deus.",
+      "orientacao": ["Entender Gênesis 12", "Perceber o propósito", "Aplicar fé obediente"],
+      "desenvolvimento": ["Deus chama", "Exige saída", "Promessa aponta para Cristo"],
+      "conclusao": ["Fé nasce do chamado", "Obediência exige ação", "Promessa se cumpre"],
+      "encerramento": "Responder com fé e obediência."
     },
-    "remotivacao": "Deus continua chamando pessoas hoje para viverem pela fé."
+    "remotivacao": "Deus continua chamando hoje."
   },
-
   {
     "aula": "Aula 2 — Hebreu",
-    "motivacao": "O povo de Deus não vive acomodado, mas em caminho.",
+    "motivacao": "O povo de Deus vive em movimento.",
     "conteudo": {
-      "introducao": "Hebreu significa atravessar e viver em jornada.",
-      "objetivo": "Entender a identidade de peregrinação.",
-      "orientacao": [
-        "Conhecer o termo hebreu",
-        "Entender travessia espiritual",
-        "Aplicar à vida cristã"
-      ],
-      "desenvolvimento": [
-        "Hebreu comunica movimento",
-        "A fé é peregrina",
-        "O cristão é estrangeiro"
-      ],
-      "conclusao": [
-        "Identidade começa em movimento",
-        "Fé não é estagnação",
-        "Pertencemos a Deus"
-      ],
-      "encerramento": "Viver atravessando com Deus."
+      "introducao": "Hebreu significa atravessar.",
+      "objetivo": "Entender identidade peregrina.",
+      "orientacao": ["Conhecer termo", "Ver travessia", "Aplicar jornada"],
+      "desenvolvimento": ["Movimento", "Peregrinação", "Vida espiritual"],
+      "conclusao": ["Identidade dinâmica", "Fé ativa", "Pertencimento"],
+      "encerramento": "Viver com Deus em movimento."
     },
-    "remotivacao": "Nossa caminhada tem direção divina."
+    "remotivacao": "Deus guia cada passo."
   },
-
   {
     "aula": "Aula 3 — Aliança",
-    "motivacao": "Deus age com compromisso e fidelidade.",
+    "motivacao": "Deus é fiel às suas promessas.",
     "conteudo": {
-      "introducao": "A aliança é base da história bíblica.",
-      "objetivo": "Compreender a aliança divina.",
-      "orientacao": [
-        "Estudar Gênesis 15",
-        "Diferenciar contrato e aliança",
-        "Aplicar fidelidade"
-      ],
-      "desenvolvimento": [
-        "Deus inicia a aliança",
-        "Sustenta a promessa",
-        "Cumpre em Cristo"
-      ],
-      "conclusao": [
-        "Deus assume compromisso",
-        "A promessa permanece",
-        "Cristo cumpre"
-      ],
-      "encerramento": "Deus não desiste do seu povo."
+      "introducao": "Aliança é compromisso divino.",
+      "objetivo": "Entender pacto com Deus.",
+      "orientacao": ["Estudar Gênesis 15", "Diferenciar contrato", "Aplicar fidelidade"],
+      "desenvolvimento": ["Iniciativa divina", "Promessa firme", "Cumprimento em Cristo"],
+      "conclusao": ["Deus sustenta", "Promessa permanece", "Cristo cumpre"],
+      "encerramento": "Confiar na fidelidade."
     },
-    "remotivacao": "A fidelidade de Deus sustenta nossa vida."
+    "remotivacao": "Deus não falha."
   },
-
   {
     "aula": "Aula 4 — Isaque",
-    "motivacao": "Deus permanece fiel mesmo diante da instabilidade humana.",
+    "motivacao": "A promessa continua.",
     "conteudo": {
-      "introducao": "A promessa continua nas gerações.",
-      "objetivo": "Ver a continuidade da promessa.",
-      "orientacao": [
-        "Ler Gênesis 26",
-        "Observar continuidade",
-        "Aplicar perseverança"
-      ],
-      "desenvolvimento": [
-        "Isaque é promessa",
-        "Não depende só do homem",
-        "Deus sustenta o plano"
-      ],
-      "conclusao": [
-        "Promessa avança pela graça",
-        "Deus sustenta aliança",
-        "Falhas não interrompem"
-      ],
-      "encerramento": "A promessa é maior que o homem."
+      "introducao": "Deus mantém sua palavra.",
+      "objetivo": "Ver continuidade.",
+      "orientacao": ["Ler Gênesis 26", "Observar promessa", "Aplicar perseverança"],
+      "desenvolvimento": ["Filho da promessa", "Dependência de Deus", "Fidelidade divina"],
+      "conclusao": ["Promessa segue", "Graça sustenta", "Plano não falha"],
+      "encerramento": "Confiar em Deus."
     },
-    "remotivacao": "Deus continua agindo nas gerações."
+    "remotivacao": "Deus age nas gerações."
   },
-
   {
     "aula": "Aula 5 — Jacó",
-    "motivacao": "Deus transforma identidade e destino.",
+    "motivacao": "Deus transforma vidas.",
     "conteudo": {
-      "introducao": "Deus muda histórias.",
-      "objetivo": "Entender transformação espiritual.",
-      "orientacao": [
-        "Estudar Gênesis 32",
-        "Ver mudança de nome",
-        "Aplicar transformação"
-      ],
-      "desenvolvimento": [
-        "Jacó luta",
-        "Encontro gera mudança",
-        "Graça transforma"
-      ],
-      "conclusao": [
-        "Deus reescreve histórias",
-        "Identidade vem de Deus",
-        "Transformação é graça"
-      ],
-      "encerramento": "O encontro muda tudo."
+      "introducao": "Mudança de identidade.",
+      "objetivo": "Entender transformação.",
+      "orientacao": ["Estudar Gênesis 32", "Ver mudança", "Aplicar vida"],
+      "desenvolvimento": ["Luta", "Encontro", "Transformação"],
+      "conclusao": ["Deus muda", "Identidade nova", "Graça atua"],
+      "encerramento": "Buscar transformação."
     },
-    "remotivacao": "Deus ainda transforma vidas."
+    "remotivacao": "Deus ainda transforma."
   },
 
   {
     "aula": "Aula 6 — As doze tribos",
-    "motivacao": "Deus forma um povo com diversidade e propósito.",
+    "motivacao": "Deus forma um povo organizado.",
     "conteudo": {
-      "introducao": "As tribos revelam organização divina.",
-      "objetivo": "Entender a formação do povo.",
-      "orientacao": [
-        "Ler Gênesis 49",
-        "Observar funções",
-        "Aplicar unidade"
-      ],
-      "desenvolvimento": [
-        "Família gera povo",
-        "Cada tribo tem função",
-        "Unidade na diversidade"
-      ],
-      "conclusao": [
-        "Deus organiza",
-        "Diversidade serve propósito",
-        "Unidade permanece"
-      ],
+      "introducao": "Origem das tribos.",
+      "objetivo": "Entender formação.",
+      "orientacao": ["Ler Gênesis 49", "Ver funções", "Aplicar unidade"],
+      "desenvolvimento": ["Família", "Diversidade", "Propósito"],
+      "conclusao": ["Organização divina", "Unidade", "Missão"],
       "encerramento": "Cada parte importa."
     },
-    "remotivacao": "O corpo é diverso e unido."
+    "remotivacao": "Somos um corpo."
   },
-
   {
     "aula": "Aula 7 — José",
     "motivacao": "Deus transforma o mal em bem.",
     "conteudo": {
-      "introducao": "O sofrimento não impede o plano.",
-      "objetivo": "Confiar em Deus na dor.",
-      "orientacao": [
-        "Ler Gênesis 50",
-        "Ver soberania",
-        "Aplicar confiança"
-      ],
-      "desenvolvimento": [
-        "José sofre",
-        "Deus usa dor",
-        "Mal não vence"
-      ],
-      "conclusao": [
-        "Deus governa",
-        "Dor tem propósito",
-        "Providência vence"
-      ],
-      "encerramento": "O mal pode virar bem."
+      "introducao": "Sofrimento com propósito.",
+      "objetivo": "Confiar em Deus.",
+      "orientacao": ["Ler Gênesis 50", "Ver soberania", "Aplicar confiança"],
+      "desenvolvimento": ["Injustiça", "Providência", "Vitória"],
+      "conclusao": ["Deus governa", "Dor tem propósito", "Vitória final"],
+      "encerramento": "Deus cuida."
     },
-    "remotivacao": "Nada foge do controle de Deus."
+    "remotivacao": "Nada escapa a Deus."
   },
 
   {
     "aula": "Aula 8 — Êxodo",
-    "motivacao": "Deus liberta com propósito.",
+    "motivacao": "Deus liberta.",
     "conteudo": {
-      "introducao": "Libertação é começo.",
+      "introducao": "Libertação divina.",
       "objetivo": "Entender redenção.",
-      "orientacao": [
-        "Ler Êxodo 3",
-        "Ver chamado",
-        "Aplicar libertação"
-      ],
-      "desenvolvimento": [
-        "Deus vê dor",
-        "Chama líder",
-        "Liberta para adorar"
-      ],
-      "conclusao": [
-        "Deus liberta",
-        "Liberdade tem propósito",
-        "Chamado continua"
-      ],
-      "encerramento": "Redenção tem direção."
+      "orientacao": ["Ler Êxodo 3", "Ver chamado", "Aplicar"],
+      "desenvolvimento": ["Deus vê", "Chama", "Liberta"],
+      "conclusao": ["Deus salva", "Propósito", "Nova vida"],
+      "encerramento": "Seguir Deus."
     },
-    "remotivacao": "Deus ainda liberta hoje."
+    "remotivacao": "Deus ainda liberta."
   },
 
   {
     "aula": "Aula 9 — Lei",
-    "motivacao": "A lei revela o caráter de Deus.",
+    "motivacao": "Deus revela sua vontade.",
     "conteudo": {
-      "introducao": "Deus mostra sua vontade.",
-      "objetivo": "Entender a lei.",
-      "orientacao": [
-        "Ler Êxodo 20",
-        "Entender função",
-        "Aplicar santidade"
-      ],
-      "desenvolvimento": [
-        "Mandamentos revelam Deus",
-        "Organizam vida",
-        "Definem limites"
-      ],
-      "conclusao": [
-        "Deus é santo",
-        "Lei orienta",
-        "Obediência é resposta"
-      ],
-      "encerramento": "A lei aponta para Deus."
+      "introducao": "Lei divina.",
+      "objetivo": "Entender mandamentos.",
+      "orientacao": ["Ler Êxodo 20", "Aplicar"],
+      "desenvolvimento": ["Revelação", "Ordem", "Santidade"],
+      "conclusao": ["Deus santo", "Lei orienta"],
+      "encerramento": "Viver santidade."
     },
-    "remotivacao": "A vontade de Deus é boa."
+    "remotivacao": "Deus continua guiando."
   },
 
   {
     "aula": "Aula 10 — Povo eleito",
-    "motivacao": "Deus escolhe para missão.",
+    "motivacao": "Deus escolhe com propósito.",
     "conteudo": {
-      "introducao": "Eleição é propósito.",
-      "objetivo": "Entender escolha divina.",
-      "orientacao": [
-        "Ler Deuteronômio 7",
-        "Ver escolha",
-        "Aplicar responsabilidade"
-      ],
-      "desenvolvimento": [
-        "Escolha pela graça",
-        "Missão do povo",
-        "Santidade exigida"
-      ],
-      "conclusao": [
-        "Eleição é missão",
-        "Não é privilégio isolado",
-        "Chamado para servir"
-      ],
-      "encerramento": "Viver para Deus."
+      "introducao": "Eleição divina.",
+      "objetivo": "Entender escolha.",
+      "orientacao": ["Ler Deuteronômio 7"],
+      "desenvolvimento": ["Graça", "Missão", "Responsabilidade"],
+      "conclusao": ["Chamado", "Serviço"],
+      "encerramento": "Servir a Deus."
     },
-    "remotivacao": "Fomos escolhidos para servir."
-  }
+    "remotivacao": "Fomos escolhidos."
+  },
 
-  
+  {
+    "aula": "Aula 11 — Geografia",
+    "motivacao": "Deus age na história.",
+    "conteudo": {
+      "introducao": "Contexto real.",
+      "objetivo": "Entender lugares.",
+      "orientacao": ["Ler Mateus 4"],
+      "desenvolvimento": ["Regiões", "Missão", "História"],
+      "conclusao": ["Deus presente"],
+      "encerramento": "Deus atua no cotidiano."
+    },
+    "remotivacao": "Deus age onde você está."
+  },
+
+  {
+    "aula": "Aula 12 — Regiões",
+    "motivacao": "O evangelho rompe barreiras.",
+    "conteudo": {
+      "introducao": "Diferenças culturais.",
+      "objetivo": "Entender contextos.",
+      "orientacao": ["Ler João 4"],
+      "desenvolvimento": ["Cultura", "Missão", "Inclusão"],
+      "conclusao": ["Todos alcançados"],
+      "encerramento": "Amar sem barreiras."
+    },
+    "remotivacao": "O evangelho é para todos."
+  },
+
+  {
+    "aula": "Aula 13 — Agricultura",
+    "motivacao": "Deus usa o simples.",
+    "conteudo": {
+      "introducao": "Parábolas.",
+      "objetivo": "Entender ensino.",
+      "orientacao": ["Ler Mateus 13"],
+      "desenvolvimento": ["Sementes", "Colheita"],
+      "conclusao": ["Aprender com simplicidade"],
+      "encerramento": "Ouvir e aplicar."
+    },
+    "remotivacao": "Deus fala no cotidiano."
+  },
+
+  {
+    "aula": "Aula 14 — Calendário",
+    "motivacao": "Deus organiza o tempo.",
+    "conteudo": {
+      "introducao": "Tempo sagrado.",
+      "objetivo": "Entender calendário.",
+      "orientacao": ["Ler Levítico 23"],
+      "desenvolvimento": ["Festas", "Memória"],
+      "conclusao": ["Tempo com Deus"],
+      "encerramento": "Viver com propósito."
+    },
+    "remotivacao": "Consagre seu tempo."
+  },
+
+  {
+    "aula": "Aula 15 — Pessach",
+    "motivacao": "Deus salva.",
+    "conteudo": {
+      "introducao": "Páscoa.",
+      "objetivo": "Entender redenção.",
+      "orientacao": ["Ler Êxodo 12"],
+      "desenvolvimento": ["Sangue", "Proteção"],
+      "conclusao": ["Salvação"],
+      "encerramento": "Valorizar redenção."
+    },
+    "remotivacao": "Você foi alcançado."
+  },
+
+  {
+    "aula": "Aula 16 — Shavuot",
+    "motivacao": "O Espírito capacita.",
+    "conteudo": {
+      "introducao": "Pentecostes.",
+      "objetivo": "Entender Espírito.",
+      "orientacao": ["Ler Atos 2"],
+      "desenvolvimento": ["Poder", "Missão"],
+      "conclusao": ["Igreja viva"],
+      "encerramento": "Depender do Espírito."
+    },
+    "remotivacao": "Deus te capacita."
+  },
+
+  {
+    "aula": "Aula 17 — Sukkot",
+    "motivacao": "Deus habita conosco.",
+    "conteudo": {
+      "introducao": "Presença divina.",
+      "objetivo": "Entender comunhão.",
+      "orientacao": ["Ler Levítico 23"],
+      "desenvolvimento": ["Provisão", "Presença"],
+      "conclusao": ["Deus presente"],
+      "encerramento": "Buscar presença."
+    },
+    "remotivacao": "Deus está contigo."
+  },
+
+  {
+    "aula": "Aula 18 — Tabernáculo",
+    "motivacao": "Deus deseja proximidade.",
+    "conteudo": {
+      "introducao": "Habitação.",
+      "objetivo": "Entender presença.",
+      "orientacao": ["Ler Êxodo 25"],
+      "desenvolvimento": ["Santidade", "Acesso"],
+      "conclusao": ["Comunhão"],
+      "encerramento": "Buscar Deus."
+    },
+    "remotivacao": "Deus quer estar perto."
+  },
+
+  {
+    "aula": "Aula 19 — Templo",
+    "motivacao": "Deus é central.",
+    "conteudo": {
+      "introducao": "Adoração.",
+      "objetivo": "Entender templo.",
+      "orientacao": ["Ler 1 Reis 8"],
+      "desenvolvimento": ["Presença", "Glória"],
+      "conclusao": ["Deus no centro"],
+      "encerramento": "Adorar com reverência."
+    },
+    "remotivacao": "Coloque Deus no centro."
+  },
+
+  {
+    "aula": "Aula 20 — Sacrifício",
+    "motivacao": "Deus provê redenção.",
+    "conteudo": {
+      "introducao": "Expiação.",
+      "objetivo": "Entender sacrifício.",
+      "orientacao": ["Ler Levítico 16"],
+      "desenvolvimento": ["Culpa", "Perdão"],
+      "conclusao": ["Cristo cumpre"],
+      "encerramento": "Gratidão."
+    },
+    "remotivacao": "Cristo pagou o preço."
+  },
+
+  {
+    "aula": "Aula 21 — Intertestamentário",
+    "motivacao": "Deus age no silêncio.",
+    "conteudo": {
+      "introducao": "Tempo de espera.",
+      "objetivo": "Confiar em Deus.",
+      "orientacao": ["Ler Malaquias 4"],
+      "desenvolvimento": ["Preparação", "Expectativa"],
+      "conclusao": ["Deus não falha"],
+      "encerramento": "Esperar em Deus."
+    },
+    "remotivacao": "Deus trabalha invisível."
+  },
+
+  {
+    "aula": "Aula 22 — Impérios",
+    "motivacao": "Deus governa a história.",
+    "conteudo": {
+      "introducao": "Reinos humanos.",
+      "objetivo": "Ver soberania.",
+      "orientacao": ["Ler Daniel 2"],
+      "desenvolvimento": ["Poder passa", "Deus permanece"],
+      "conclusao": ["Reino eterno"],
+      "encerramento": "Confiar em Deus."
+    },
+    "remotivacao": "Deus reina sempre."
+  },
+
+  {
+    "aula": "Aula 23 — Septuaginta",
+    "motivacao": "A Palavra alcança todos.",
+    "conteudo": {
+      "introducao": "Tradução.",
+      "objetivo": "Entender acesso.",
+      "orientacao": ["Ler Lucas 4"],
+      "desenvolvimento": ["Comunicação", "Clareza"],
+      "conclusao": ["Palavra viva"],
+      "encerramento": "Compartilhar Palavra."
+    },
+    "remotivacao": "Deus fala claramente."
+  },
+
+  {
+    "aula": "Aula 24 — Seitas",
+    "motivacao": "Deus busca verdade.",
+    "conteudo": {
+      "introducao": "Religiosidade.",
+      "objetivo": "Discernir verdade.",
+      "orientacao": ["Ler Mateus 23"],
+      "desenvolvimento": ["Hipocrisia", "Verdade"],
+      "conclusao": ["Autenticidade"],
+      "encerramento": "Ser verdadeiro."
+    },
+    "remotivacao": "Busque sinceridade."
+  },
+
+  {
+    "aula": "Aula 25 — Messias",
+    "motivacao": "Cristo é o centro.",
+    "conteudo": {
+      "introducao": "Profecia.",
+      "objetivo": "Entender Messias.",
+      "orientacao": ["Ler Isaías 53"],
+      "desenvolvimento": ["Sofrimento", "Redenção"],
+      "conclusao": ["Jesus cumpre"],
+      "encerramento": "Crer em Cristo."
+    },
+    "remotivacao": "Nossa esperança está nele."
+  },
+
+  {
+    "aula": "Aula 26 — Jesus judeu",
+    "motivacao": "Cristo cumpre a história.",
+    "conteudo": {
+      "introducao": "Contexto.",
+      "objetivo": "Entender Jesus.",
+      "orientacao": ["Ler Mateus 5"],
+      "desenvolvimento": ["Lei", "Cumprimento"],
+      "conclusao": ["Cristo é centro"],
+      "encerramento": "Seguir Jesus."
+    },
+    "remotivacao": "Conheça mais Cristo."
+  },
+
+  {
+    "aula": "Aula 27 — Parábolas",
+    "motivacao": "Deus ensina com simplicidade.",
+    "conteudo": {
+      "introducao": "Histórias.",
+      "objetivo": "Entender ensino.",
+      "orientacao": ["Ler Lucas 15"],
+      "desenvolvimento": ["Reino", "Coração"],
+      "conclusao": ["Responder"],
+      "encerramento": "Ouvir Deus."
+    },
+    "remotivacao": "Abra o coração."
+  },
+
+  {
+    "aula": "Aula 28 — Milagres",
+    "motivacao": "Deus age com poder.",
+    "conteudo": {
+      "introducao": "Sinais.",
+      "objetivo": "Entender milagres.",
+      "orientacao": ["Ler João 2"],
+      "desenvolvimento": ["Poder", "Fé"],
+      "conclusao": ["Glória de Deus"],
+      "encerramento": "Crer."
+    },
+    "remotivacao": "Deus ainda faz milagres."
+  },
+
+  {
+    "aula": "Aula 29 — Discípulos",
+    "motivacao": "Deus chama seguidores.",
+    "conteudo": {
+      "introducao": "Chamado.",
+      "objetivo": "Ser discípulo.",
+      "orientacao": ["Ler Mateus 4"],
+      "desenvolvimento": ["Chamado", "Seguimento"],
+      "conclusao": ["Vida transformada"],
+      "encerramento": "Seguir Jesus."
+    },
+    "remotivacao": "Você foi chamado."
+  },
+
+  {
+    "aula": "Aula 30 — Cruz",
+    "motivacao": "O amor se revela na cruz.",
+    "conteudo": {
+      "introducao": "Sacrifício.",
+      "objetivo": "Entender cruz.",
+      "orientacao": ["Ler João 19"],
+      "desenvolvimento": ["Dor", "Amor"],
+      "conclusao": ["Salvação"],
+      "encerramento": "Gratidão."
+    },
+    "remotivacao": "Cristo morreu por você."
+  },
+
+  {
+    "aula": "Aula 31 — Ressurreição",
+    "motivacao": "A vida vence.",
+    "conteudo": {
+      "introducao": "Vitória.",
+      "objetivo": "Entender ressurreição.",
+      "orientacao": ["Ler Mateus 28"],
+      "desenvolvimento": ["Vitória", "Esperança"],
+      "conclusao": ["Vida eterna"],
+      "encerramento": "Crer."
+    },
+    "remotivacao": "Cristo vive."
+  },
+
+  {
+    "aula": "Aula 32 — Igreja",
+    "motivacao": "Deus forma um povo.",
+    "conteudo": {
+      "introducao": "Comunidade.",
+      "objetivo": "Entender igreja.",
+      "orientacao": ["Ler Atos 2"],
+      "desenvolvimento": ["Comunhão", "Missão"],
+      "conclusao": ["Unidade"],
+      "encerramento": "Participar."
+    },
+    "remotivacao": "Você faz parte."
+  },
+
+  {
+    "aula": "Aula 33 — Missão",
+    "motivacao": "Somos enviados.",
+    "conteudo": {
+      "introducao": "Evangelho.",
+      "objetivo": "Entender missão.",
+      "orientacao": ["Ler Mateus 28"],
+      "desenvolvimento": ["Ir", "Fazer discípulos"],
+      "conclusao": ["Chamado"],
+      "encerramento": "Obedecer."
+    },
+    "remotivacao": "Você é enviado."
+  },
+
+  {
+    "aula": "Aula 34 — Espírito Santo",
+    "motivacao": "Deus habita em nós.",
+    "conteudo": {
+      "introducao": "Presença.",
+      "objetivo": "Entender Espírito.",
+      "orientacao": ["Ler João 14"],
+      "desenvolvimento": ["Consolo", "Direção"],
+      "conclusao": ["Vida guiada"],
+      "encerramento": "Ouvir Deus."
+    },
+    "remotivacao": "O Espírito te guia."
+  },
+
+  {
+    "aula": "Aula 35 — Santidade",
+    "motivacao": "Deus nos chama à pureza.",
+    "conteudo": {
+      "introducao": "Vida santa.",
+      "objetivo": "Viver santidade.",
+      "orientacao": ["Ler 1 Pedro 1"],
+      "desenvolvimento": ["Separação", "Obediência"],
+      "conclusao": ["Vida transformada"],
+      "encerramento": "Buscar santidade."
+    },
+    "remotivacao": "Viva para Deus."
+  },
+
+  {
+    "aula": "Aula 36 — Fé",
+    "motivacao": "A fé move.",
+    "conteudo": {
+      "introducao": "Confiança.",
+      "objetivo": "Viver pela fé.",
+      "orientacao": ["Ler Hebreus 11"],
+      "desenvolvimento": ["Crer", "Agir"],
+      "conclusao": ["Fé viva"],
+      "encerramento": "Confiar."
+    },
+    "remotivacao": "Creia mais."
+  },
+
+  {
+    "aula": "Aula 37 — Graça",
+    "motivacao": "Deus nos ama gratuitamente.",
+    "conteudo": {
+      "introducao": "Favor imerecido.",
+      "objetivo": "Entender graça.",
+      "orientacao": ["Ler Efésios 2"],
+      "desenvolvimento": ["Salvação", "Amor"],
+      "conclusao": ["Graça suficiente"],
+      "encerramento": "Agradecer."
+    },
+    "remotivacao": "Você é amado."
+  },
+
+  {
+    "aula": "Aula 38 — Amor",
+    "motivacao": "Deus é amor.",
+    "conteudo": {
+      "introducao": "Essência.",
+      "objetivo": "Viver amor.",
+      "orientacao": ["Ler 1 Coríntios 13"],
+      "desenvolvimento": ["Amar", "Servir"],
+      "conclusao": ["Amor maior"],
+      "encerramento": "Amar mais."
+    },
+    "remotivacao": "Ame como Deus ama."
+  },
+
+  {
+    "aula": "Aula 39 — Esperança",
+    "motivacao": "Temos futuro.",
+    "conteudo": {
+      "introducao": "Promessa.",
+      "objetivo": "Esperar em Deus.",
+      "orientacao": ["Ler Romanos 8"],
+      "desenvolvimento": ["Esperança", "Futuro"],
+      "conclusao": ["Confiança"],
+      "encerramento": "Esperar."
+    },
+    "remotivacao": "Há esperança."
+  },
+
+  {
+    "aula": "Aula 40 — Eternidade",
+    "motivacao": "Deus prepara algo eterno.",
+    "conteudo": {
+      "introducao": "Vida eterna.",
+      "objetivo": "Entender eternidade.",
+      "orientacao": ["Ler Apocalipse 21"],
+      "desenvolvimento": ["Novo céu", "Nova terra"],
+      "conclusao": ["Esperança final"],
+      "encerramento": "Viver com propósito."
+    },
+    "remotivacao": "A eternidade nos espera."
+  }
 ]
