@@ -1,12 +1,263 @@
 [
   {
-    "id": 1,
-    "titulo": "Aula 1 — O Chamado de Abraão",
-    "conteudo": "Gênesis 12:1-3\n\nA fé começa com um chamado de Deus."
+    "aula": "Aula 1 — O chamado de Abraão",
+    "motivacao": "Deus inicia a história da redenção chamando um homem comum para formar um povo de promessa.",
+    "conteudo": {
+      "introducao": "A fé começa com um chamado de Deus e exige ruptura com a antiga vida.",
+      "objetivo": "Compreender que a fé começa com um chamado de Deus e exige ruptura.",
+      "orientacao": [
+        "Entender o chamado em Gênesis 12",
+        "Perceber que Deus chama por propósito",
+        "Aplicar fé obediente"
+      ],
+      "desenvolvimento": [
+        "Deus chama em meio à realidade",
+        "O chamado exige saída e confiança",
+        "A promessa aponta para Cristo"
+      ],
+      "conclusao": [
+        "A fé nasce do chamado",
+        "Obedecer exige deixar o conforto",
+        "A promessa se cumpre em Cristo"
+      ],
+      "encerramento": "Responder ao chamado com confiança e obediência."
+    },
+    "remotivacao": "Deus continua chamando pessoas hoje para viverem pela fé."
   },
+
   {
-    "id": 2,
-    "titulo": "Aula 2 — Hebreu",
-    "conteudo": "Gênesis 14:13\n\nIvri significa atravessar."
+    "aula": "Aula 2 — Hebreu",
+    "motivacao": "O povo de Deus não vive acomodado, mas em caminho.",
+    "conteudo": {
+      "introducao": "Hebreu significa atravessar e viver em jornada.",
+      "objetivo": "Entender a identidade de peregrinação.",
+      "orientacao": [
+        "Conhecer o termo hebreu",
+        "Entender travessia espiritual",
+        "Aplicar à vida cristã"
+      ],
+      "desenvolvimento": [
+        "Hebreu comunica movimento",
+        "A fé é peregrina",
+        "O cristão é estrangeiro"
+      ],
+      "conclusao": [
+        "Identidade começa em movimento",
+        "Fé não é estagnação",
+        "Pertencemos a Deus"
+      ],
+      "encerramento": "Viver atravessando com Deus."
+    },
+    "remotivacao": "Nossa caminhada tem direção divina."
+  },
+
+  {
+    "aula": "Aula 3 — Aliança",
+    "motivacao": "Deus age com compromisso e fidelidade.",
+    "conteudo": {
+      "introducao": "A aliança é base da história bíblica.",
+      "objetivo": "Compreender a aliança divina.",
+      "orientacao": [
+        "Estudar Gênesis 15",
+        "Diferenciar contrato e aliança",
+        "Aplicar fidelidade"
+      ],
+      "desenvolvimento": [
+        "Deus inicia a aliança",
+        "Sustenta a promessa",
+        "Cumpre em Cristo"
+      ],
+      "conclusao": [
+        "Deus assume compromisso",
+        "A promessa permanece",
+        "Cristo cumpre"
+      ],
+      "encerramento": "Deus não desiste do seu povo."
+    },
+    "remotivacao": "A fidelidade de Deus sustenta nossa vida."
+  },
+
+  {
+    "aula": "Aula 4 — Isaque",
+    "motivacao": "Deus permanece fiel mesmo diante da instabilidade humana.",
+    "conteudo": {
+      "introducao": "A promessa continua nas gerações.",
+      "objetivo": "Ver a continuidade da promessa.",
+      "orientacao": [
+        "Ler Gênesis 26",
+        "Observar continuidade",
+        "Aplicar perseverança"
+      ],
+      "desenvolvimento": [
+        "Isaque é promessa",
+        "Não depende só do homem",
+        "Deus sustenta o plano"
+      ],
+      "conclusao": [
+        "Promessa avança pela graça",
+        "Deus sustenta aliança",
+        "Falhas não interrompem"
+      ],
+      "encerramento": "A promessa é maior que o homem."
+    },
+    "remotivacao": "Deus continua agindo nas gerações."
+  },
+
+  {
+    "aula": "Aula 5 — Jacó",
+    "motivacao": "Deus transforma identidade e destino.",
+    "conteudo": {
+      "introducao": "Deus muda histórias.",
+      "objetivo": "Entender transformação espiritual.",
+      "orientacao": [
+        "Estudar Gênesis 32",
+        "Ver mudança de nome",
+        "Aplicar transformação"
+      ],
+      "desenvolvimento": [
+        "Jacó luta",
+        "Encontro gera mudança",
+        "Graça transforma"
+      ],
+      "conclusao": [
+        "Deus reescreve histórias",
+        "Identidade vem de Deus",
+        "Transformação é graça"
+      ],
+      "encerramento": "O encontro muda tudo."
+    },
+    "remotivacao": "Deus ainda transforma vidas."
+  },
+
+  {
+    "aula": "Aula 6 — As doze tribos",
+    "motivacao": "Deus forma um povo com diversidade e propósito.",
+    "conteudo": {
+      "introducao": "As tribos revelam organização divina.",
+      "objetivo": "Entender a formação do povo.",
+      "orientacao": [
+        "Ler Gênesis 49",
+        "Observar funções",
+        "Aplicar unidade"
+      ],
+      "desenvolvimento": [
+        "Família gera povo",
+        "Cada tribo tem função",
+        "Unidade na diversidade"
+      ],
+      "conclusao": [
+        "Deus organiza",
+        "Diversidade serve propósito",
+        "Unidade permanece"
+      ],
+      "encerramento": "Cada parte importa."
+    },
+    "remotivacao": "O corpo é diverso e unido."
+  },
+
+  {
+    "aula": "Aula 7 — José",
+    "motivacao": "Deus transforma o mal em bem.",
+    "conteudo": {
+      "introducao": "O sofrimento não impede o plano.",
+      "objetivo": "Confiar em Deus na dor.",
+      "orientacao": [
+        "Ler Gênesis 50",
+        "Ver soberania",
+        "Aplicar confiança"
+      ],
+      "desenvolvimento": [
+        "José sofre",
+        "Deus usa dor",
+        "Mal não vence"
+      ],
+      "conclusao": [
+        "Deus governa",
+        "Dor tem propósito",
+        "Providência vence"
+      ],
+      "encerramento": "O mal pode virar bem."
+    },
+    "remotivacao": "Nada foge do controle de Deus."
+  },
+
+  {
+    "aula": "Aula 8 — Êxodo",
+    "motivacao": "Deus liberta com propósito.",
+    "conteudo": {
+      "introducao": "Libertação é começo.",
+      "objetivo": "Entender redenção.",
+      "orientacao": [
+        "Ler Êxodo 3",
+        "Ver chamado",
+        "Aplicar libertação"
+      ],
+      "desenvolvimento": [
+        "Deus vê dor",
+        "Chama líder",
+        "Liberta para adorar"
+      ],
+      "conclusao": [
+        "Deus liberta",
+        "Liberdade tem propósito",
+        "Chamado continua"
+      ],
+      "encerramento": "Redenção tem direção."
+    },
+    "remotivacao": "Deus ainda liberta hoje."
+  },
+
+  {
+    "aula": "Aula 9 — Lei",
+    "motivacao": "A lei revela o caráter de Deus.",
+    "conteudo": {
+      "introducao": "Deus mostra sua vontade.",
+      "objetivo": "Entender a lei.",
+      "orientacao": [
+        "Ler Êxodo 20",
+        "Entender função",
+        "Aplicar santidade"
+      ],
+      "desenvolvimento": [
+        "Mandamentos revelam Deus",
+        "Organizam vida",
+        "Definem limites"
+      ],
+      "conclusao": [
+        "Deus é santo",
+        "Lei orienta",
+        "Obediência é resposta"
+      ],
+      "encerramento": "A lei aponta para Deus."
+    },
+    "remotivacao": "A vontade de Deus é boa."
+  },
+
+  {
+    "aula": "Aula 10 — Povo eleito",
+    "motivacao": "Deus escolhe para missão.",
+    "conteudo": {
+      "introducao": "Eleição é propósito.",
+      "objetivo": "Entender escolha divina.",
+      "orientacao": [
+        "Ler Deuteronômio 7",
+        "Ver escolha",
+        "Aplicar responsabilidade"
+      ],
+      "desenvolvimento": [
+        "Escolha pela graça",
+        "Missão do povo",
+        "Santidade exigida"
+      ],
+      "conclusao": [
+        "Eleição é missão",
+        "Não é privilégio isolado",
+        "Chamado para servir"
+      ],
+      "encerramento": "Viver para Deus."
+    },
+    "remotivacao": "Fomos escolhidos para servir."
   }
+
+  
 ]
